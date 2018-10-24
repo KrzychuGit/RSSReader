@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="tvChannelsTitle">Zapisane kanały RSS</string>
+    <string name="bSelect">Wybierz</string>
+    <string name="bAdd">Dodaj</string>
+    <string name="bDelete">Usuń</string>
+    <string name="tvNewTitle">Nazwa</string>
+    <string name="tvNewURL">URL</string>
+    <string name="etNewTitle">Wpisz nazwę kanału </string>
+    <string name="etNewURL">Wpisz URL kanału</string>
+    <string name="bOKChannel">Dodaj</string>
+    <string name="bCancelChannel">Anuluj</string>
+</resources>
